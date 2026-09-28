@@ -1,0 +1,14 @@
+@import 'tailwindcss' source(none);
+@source '../**/*.{js,ts,jsx,tsx}';
+
+@import 'tw-animate-css';
+
+/*
+@cache
+model = load_model()
+
+# after upload
+prediction = model.predict(image)
+
+*/
+
